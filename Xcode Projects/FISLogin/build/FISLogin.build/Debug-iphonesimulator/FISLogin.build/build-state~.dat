@@ -1,0 +1,256 @@
+TFISLogin
+v7
+r0
+t315950979.580561
+cCheck dependencies
+cProcessInfoPlistFile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/Info.plist" FISLogin-Info.plist
+cCompileXIB "/Users/rc/Xcode Projects/FISLogin/MainWindow.xib"
+cCompileXIB "/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib"
+cProcessPCH /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch.gch FISLogin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/main.o "/Users/rc/Xcode Projects/FISLogin/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginAppDelegate.o "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginViewController.o "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin" normal i386
+cGenerateDSYMFile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app.dSYM" "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin"
+cTouch "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.h
+c000000004D24CEF100000000000001D6
+t1294257905
+s470
+i<UIKit/UIKit.h>
+
+N/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m
+c000000004D24CEF10000000000000A8B
+t1294257905
+s2699
+i"FISLoginAppDelegate.h"
+i"FISLoginViewController.h"
+
+N/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.h
+c000000004D24D0020000000000000186
+t1294258178
+s390
+i<UIKit/UIKit.h>
+
+N/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m
+c000000004D24D0020000000000000280
+t1294258178
+s640
+i"FISLoginViewController.h"
+
+N/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib
+c000000004D24CEF10000000000001A49
+t1294257905
+s6729
+
+N/Users/rc/Xcode Projects/FISLogin/FISLogin_Prefix.pch
+c000000004D24CEF100000000000000B9
+t1294257905
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rc/Xcode Projects/FISLogin/MainWindow.xib
+c000000004D24CEF10000000000004E35
+t1294257905
+s20021
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app
+t1294258179
+s238
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app.dSYM
+t1294258179
+s102
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin
+t1294258179
+s17828
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLoginViewController.nib
+t1294258178
+s795
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/Info.plist
+t1294258178
+s595
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/MainWindow.nib
+t1294258178
+s1125
+
+N/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/PkgInfo
+t1294258178
+s8
+
+N/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLogin.LinkFileList
+c000000004D24D0020000000000000186
+t1294258178
+s390
+
+N/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginAppDelegate.o
+t1294258179
+s51008
+
+N/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginViewController.o
+t1294258179
+s40252
+
+N/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/main.o
+t1294258179
+s6292
+
+N/Users/rc/Xcode Projects/FISLogin/main.m
+c000000004D24CEF1000000000000015B
+t1294257905
+s347
+i<UIKit/UIKit.h>
+
+N/var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch.gch
+t1294258179
+s15453392
+
+NFISLogin-Info.plist
+c000000004D24CEF1000000000000038D
+t1294257905
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315950978#315950978#0(0"0(0#1#0"8617527520#0"0#
+
+CCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginAppDelegate.o "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315950979.443102
+e315950979.536581
+r1
+xCompileC
+xbuild/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginAppDelegate.o
+x/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m315950979#315950979#0(0"0(0#0#63"/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m8616792800#1939"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-generated-files.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-own-target-headers.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-all-target-headers.hmap" -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-project-headers.hmap" "-F/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" "-I/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/include" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources/i386" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources" -include /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch -c "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginAppDelegate.m" -o "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginAppDelegate.o"0#
+
+CCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginViewController.o "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315950979.444259
+e315950979.532933
+r1
+xCompileC
+xbuild/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginViewController.o
+x/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m315950979#315950979#0(0"0(0#0#66"/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m8616376352#1945"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-generated-files.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-own-target-headers.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-all-target-headers.hmap" -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-project-headers.hmap" "-F/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" "-I/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/include" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources/i386" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources" -include /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch -c "/Users/rc/Xcode Projects/FISLogin/Classes/FISLoginViewController.m" -o "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLoginViewController.o"0#
+
+CCompileC build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/main.o "/Users/rc/Xcode Projects/FISLogin/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315950979.441852
+e315950979.506900
+r1
+xCompileC
+xbuild/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/main.o
+x/Users/rc/Xcode Projects/FISLogin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/rc/Xcode Projects/FISLogin/main.m315950979#315950979#0(0"0(0#0#40"/Users/rc/Xcode Projects/FISLogin/main.m8616404384#1901"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-generated-files.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-own-target-headers.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-all-target-headers.hmap" -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-project-headers.hmap" "-F/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" "-I/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/include" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources/i386" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources" -include /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch -c "/Users/rc/Xcode Projects/FISLogin/main.m" -o "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib"
+s315950978.237375
+e315950978.623960
+r1
+xCompileXIB
+x/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib
+lSLF07#2@37"CompileXIB FISLoginViewController.xib315950978#315950978#0(0"0(0#0#60"/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib8617685376#586"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLoginViewController.nib" "/Users/rc/Xcode Projects/FISLogin/FISLoginViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rc/Xcode Projects/FISLogin/MainWindow.xib"
+s315950978.234938
+e315950978.627672
+r1
+xCompileXIB
+x/Users/rc/Xcode Projects/FISLogin/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315950978#315950978#0(0"0(0#0#48"/Users/rc/Xcode Projects/FISLogin/MainWindow.xib8599773216#562"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/MainWindow.nib" "/Users/rc/Xcode Projects/FISLogin/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app.dSYM" "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin"
+s315950979.560775
+e315950979.575702
+r1
+xGenerateDSYMFile
+x/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app.dSYM
+x/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/FISLogin.app.dSYM build/Debug-iphonesimulator/FISLogin.app/FISLogin315950979#315950979#0(0"0(0#0#83"/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin8602957312#377"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin" -o "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app.dSYM"0#
+
+CLd "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin" normal i386
+s315950979.536686
+e315950979.560673
+r1
+xLd
+x/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin
+xnormal
+xi386
+lSLF07#2@88"Link /Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin315950979#315950979#0(0"0(0#0#0"8615904512#890"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" "-F/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" -filelist "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/Objects-normal/i386/FISLogin.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/FISLogin"0#
+
+CProcessInfoPlistFile "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/Info.plist" FISLogin-Info.plist
+s315950978.225238
+e315950978.234813
+r1
+xProcessInfoPlistFile
+x/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/Info.plist
+xFISLogin-Info.plist
+lSLF07#2@27"Process FISLogin-Info.plist315950978#315950978#0(0"0(0#0#53"/Users/rc/Xcode Projects/FISLogin/FISLogin-Info.plist8616272576#473"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FISLogin-Info.plist -genpkginfo "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app/Info.plist"0#
+
+CProcessPCH /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch.gch FISLogin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315950978.627836
+e315950979.441701
+r1
+xProcessPCH
+x/var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch.gch
+xFISLogin_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile FISLogin_Prefix.pch315950978#315950979#0(0"0(0#0#53"/Users/rc/Xcode Projects/FISLogin/FISLogin_Prefix.pch8616194176#1795"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-generated-files.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-own-target-headers.hmap" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-all-target-headers.hmap" -iquote "/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/FISLogin-project-headers.hmap" "-F/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator" "-I/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/include" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources/i386" "-I/Users/rc/Xcode Projects/FISLogin/build/FISLogin.build/Debug-iphonesimulator/FISLogin.build/DerivedSources" -c "/Users/rc/Xcode Projects/FISLogin/FISLogin_Prefix.pch" -o /var/folders/dv/dvNF-hBfFb07TxdK8wh02E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FISLogin_Prefix-bzrtibiwyqeovyeucyhymelqgqqt/FISLogin_Prefix.pch.gch0#
+
+CTouch "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app"
+s315950979.575816
+e315950979.580493
+r1
+xTouch
+x/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app
+lSLF07#2@80"Touch /Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app315950979#315950979#0(0"0(0#0#0"8616755680#273"    cd "/Users/rc/Xcode Projects/FISLogin"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/rc/Xcode Projects/FISLogin/build/Debug-iphonesimulator/FISLogin.app"0#
+

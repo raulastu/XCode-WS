@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeExecutable = 51E7832F12B078F0008C15CE /* Server */;
+		activeTarget = E4D874EC081F82B200543BD9 /* All */;
+		codeSenseManager = 51E7833D12B078F8008C15CE /* Code sense */;
+		executables = (
+			51E7832F12B078F0008C15CE /* Server */,
+			51E7833012B078F0008C15CE /* Client */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					392,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313555548;
+			PBXWorkspaceStateSaveDate = 313555548;
+		};
+		perUserProjectItems = {
+			51E7838412B338EC008C15CE /* PBXTextBookmark */ = 51E7838412B338EC008C15CE /* PBXTextBookmark */;
+			51E7838512B338EC008C15CE /* PBXTextBookmark */ = 51E7838512B338EC008C15CE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 51E7833C12B078F8008C15CE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	51E7832F12B078F0008C15CE /* Server */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Server;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	51E7833012B078F0008C15CE /* Client */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Client;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	51E7833C12B078F8008C15CE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	51E7833D12B078F8008C15CE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	51E7838412B338EC008C15CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D87365081E581B00543BD9 /* Common.c */;
+		name = "Common.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 0;
+	};
+	51E7838512B338EC008C15CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D87365081E581B00543BD9 /* Common.c */;
+		name = "Common.c: 112";
+		rLen = 0;
+		rLoc = 4288;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 3848;
+	};
+	8DD76F840486A9BA00D96B5E /* Server */ = {
+		activeExec = 0;
+		executables = (
+			51E7832F12B078F0008C15CE /* Server */,
+		);
+	};
+	E402B518081D57160047670B /* Client */ = {
+		activeExec = 0;
+		executables = (
+			51E7833012B078F0008C15CE /* Client */,
+		);
+	};
+	E4D87365081E581B00543BD9 /* Common.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 7475}}";
+			sepNavSelRange = "{4288, 0}";
+			sepNavVisRange = "{3848, 605}";
+		};
+	};
+	E4D874EC081F82B200543BD9 /* All */ = {
+		activeExec = 0;
+	};
+}

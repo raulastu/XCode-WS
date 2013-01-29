@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* Currency_ConverterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 234}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Currency_ConverterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {509, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{39, 359}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* Currency_Converter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 167}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 51306DB512AC8C0C00251A63 /* Currency Converter */;
+		activeTarget = 8D1107260486CEB800E47090 /* Currency Converter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Currency Converter */,
+		);
+		codeSenseManager = 51306DC712AC8C0F00251A63 /* Code sense */;
+		executables = (
+			51306DB512AC8C0C00251A63 /* Currency Converter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					135,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					247,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					207,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315451110;
+			PBXWorkspaceStateSaveDate = 315451110;
+		};
+		perUserProjectItems = {
+			510F142812B941230095192C /* PBXTextBookmark */ = 510F142812B941230095192C /* PBXTextBookmark */;
+			510F142912B941230095192C /* PBXTextBookmark */ = 510F142912B941230095192C /* PBXTextBookmark */;
+			510F142A12B941230095192C /* PBXTextBookmark */ = 510F142A12B941230095192C /* PBXTextBookmark */;
+			510F142B12B941230095192C /* PlistBookmark */ = 510F142B12B941230095192C /* PlistBookmark */;
+			510F142D12B941230095192C /* PBXTextBookmark */ = 510F142D12B941230095192C /* PBXTextBookmark */;
+			510F142E12B941230095192C /* PBXTextBookmark */ = 510F142E12B941230095192C /* PBXTextBookmark */;
+			518F53AF12CD66FC0089806C /* PBXTextBookmark */ = 518F53AF12CD66FC0089806C /* PBXTextBookmark */;
+			518F53B012CD66FC0089806C /* PBXTextBookmark */ = 518F53B012CD66FC0089806C /* PBXTextBookmark */;
+			518F53B512CD6CA40089806C /* PBXTextBookmark */ = 518F53B512CD6CA40089806C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 51306DC612AC8C0F00251A63 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 219}}";
+			sepNavSelRange = "{54, 0}";
+			sepNavVisRange = "{0, 250}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	510F142812B941230095192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Currency_ConverterAppDelegate.h */;
+		name = "Currency_ConverterAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	510F142912B941230095192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Currency_ConverterAppDelegate.m */;
+		name = "Currency_ConverterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 39;
+	};
+	510F142A12B941230095192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	510F142B12B941230095192C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Currency_Converter-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/rc/Xcode Projects/Currency Converter/Currency_Converter-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	510F142D12B941230095192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* Currency_Converter_Prefix.pch */;
+		name = "Currency_Converter_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	510F142E12B941230095192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 51306DCC12AC8ECC00251A63 /* Converter.h */;
+		name = "Converter.h: 11";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 3;
+	};
+	51306DB512AC8C0C00251A63 /* Currency Converter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Currency Converter";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	51306DC612AC8C0F00251A63 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	51306DC712AC8C0F00251A63 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	51306DCC12AC8ECC00251A63 /* Converter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 247}}";
+			sepNavSelRange = "{169, 0}";
+			sepNavVisRange = "{3, 325}";
+			sepNavWindowFrame = "{{342, 261}, {750, 558}}";
+		};
+	};
+	51306DCD12AC8ECC00251A63 /* Converter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 234}}";
+			sepNavSelRange = "{99, 0}";
+			sepNavVisRange = "{3, 299}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	518F53AF12CD66FC0089806C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 51306DCD12AC8ECC00251A63 /* Converter.m */;
+		name = "Converter.m: 6";
+		rLen = 0;
+		rLoc = 99;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 3;
+	};
+	518F53B012CD66FC0089806C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 54;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	518F53B512CD6CA40089806C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 54;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Currency Converter */ = {
+		activeExec = 0;
+		executables = (
+			51306DB512AC8C0C00251A63 /* Currency Converter */,
+		);
+	};
+}

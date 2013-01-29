@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* iPhoneYouTubeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 616}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhoneYouTube */ = {
+		activeExec = 0;
+		executables = (
+			519C0E4212D4D02D0003F73F /* iPhoneYouTube */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iPhoneYouTubeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 210}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iPhoneYouTubeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {727, 520}}";
+			sepNavSelRange = "{448, 0}";
+			sepNavVisRange = "{0, 702}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 519C0E4212D4D02D0003F73F /* iPhoneYouTube */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhoneYouTube */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPhoneYouTube */,
+		);
+		codeSenseManager = 519C0E4D12D4D04E0003F73F /* Code sense */;
+		executables = (
+			519C0E4212D4D02D0003F73F /* iPhoneYouTube */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					549,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315948741;
+			PBXWorkspaceStateSaveDate = 315948741;
+		};
+		perUserProjectItems = {
+			5102ECDA12D506C000165A23 /* PBXTextBookmark */ = 5102ECDA12D506C000165A23 /* PBXTextBookmark */;
+			5102ECDB12D506C000165A23 /* PBXTextBookmark */ = 5102ECDB12D506C000165A23 /* PBXTextBookmark */;
+			5102ECDC12D506C000165A23 /* PBXTextBookmark */ = 5102ECDC12D506C000165A23 /* PBXTextBookmark */;
+			5102ECDD12D506C000165A23 /* PlistBookmark */ = 5102ECDD12D506C000165A23 /* PlistBookmark */;
+			5102ECDE12D506C000165A23 /* PBXTextBookmark */ = 5102ECDE12D506C000165A23 /* PBXTextBookmark */;
+			5102ECDF12D506C000165A23 /* PBXTextBookmark */ = 5102ECDF12D506C000165A23 /* PBXTextBookmark */;
+			5102ECE012D506C000165A23 /* PBXTextBookmark */ = 5102ECE012D506C000165A23 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 519C0E4C12D4D04E0003F73F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iPhoneYouTube_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	5102ECDA12D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneYouTubeViewController.h */;
+		name = "iPhoneYouTubeViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	5102ECDB12D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	5102ECDC12D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iPhoneYouTube_Prefix.pch */;
+		name = "iPhoneYouTube_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	5102ECDD12D506C000165A23 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPhoneYouTube-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/rc/Xcode Projects/iPhoneYouTube/iPhoneYouTube-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5102ECDE12D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPhoneYouTubeAppDelegate.m */;
+		name = "iPhoneYouTubeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	5102ECDF12D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneYouTubeViewController.m */;
+		name = "iPhoneYouTubeViewController.m: 17";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	5102ECE012D506C000165A23 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneYouTubeViewController.m */;
+		name = "iPhoneYouTubeViewController.m: 17";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	519C0E4212D4D02D0003F73F /* iPhoneYouTube */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPhoneYouTube;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	519C0E4C12D4D04E0003F73F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	519C0E4D12D4D04E0003F73F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
