@@ -30,10 +30,9 @@
             if(card){
                 self.cards[i] = card;
             }else{
-                self.cards[i] =  nil;
-                return nil;
+                self.cards =  nil;
+                self = nil;
             }
-            
         }
     }
     return self;
@@ -43,7 +42,9 @@
 #define MISMATCH_PENALTY 2
 #define FLIP_COST 1
 
+
 - (void) flipCardAtIndex:(NSUInteger)index{
+    NSLog(@"X");
     Card * card = [self cardAtIndex:index];
     if(card && !card.isUnplayable){
         if(!card.isFaceUp){

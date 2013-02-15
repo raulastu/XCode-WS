@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.faceUp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Deck drawRandomCard]:Deck.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cards.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CardGameViewController updateUI]:CardGameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.cardButtons indexOfObject:cardButton]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CardGameViewController flipCard:]:CardGameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.cardButtons indexOfObject:sender]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
