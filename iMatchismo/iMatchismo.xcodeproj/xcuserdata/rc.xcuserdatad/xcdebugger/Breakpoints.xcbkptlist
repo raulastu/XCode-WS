@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "iMatchismo/CardGameViewController.m"
-         timestampString = "382605533.22863"
+         timestampString = "382658112.935113"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "42"
-         endingLineNumber = "42"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
          landmarkName = "-updateUI"
          landmarkType = "5">
       </FileBreakpoint>
@@ -21,11 +21,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "iMatchismo/CardGameViewController.m"
-         timestampString = "382605639.330494"
+         timestampString = "382658982.025321"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "63"
-         endingLineNumber = "63"
+         startingLineNumber = "76"
+         endingLineNumber = "76"
          landmarkName = "-flipCard:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "iMatchismo/Model/CardMatchingGame.m"
-         timestampString = "382604239.473337"
+         timestampString = "382662171.598331"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "48"
-         endingLineNumber = "48"
+         startingLineNumber = "56"
+         endingLineNumber = "56"
          landmarkName = "-flipCardAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -47,11 +47,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "iMatchismo/Model/CardMatchingGame.m"
-         timestampString = "382604285.207907"
+         timestampString = "382662171.598331"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "26"
-         endingLineNumber = "26"
+         startingLineNumber = "34"
+         endingLineNumber = "34"
          landmarkName = "-initWithCardCount:usingDeck:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -65,6 +65,45 @@
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "31"
          endingLineNumber = "31">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "iMatchismo/CardGameViewController.m"
+         timestampString = "382661069.297701"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "55"
+         endingLineNumber = "55"
+         landmarkName = "-setLastFlipDesc:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "iMatchismo/Model/CardMatchingGame.m"
+         timestampString = "382662180.032616"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "86"
+         endingLineNumber = "86"
+         landmarkName = "-flipCardAtIndex:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "iMatchismo/CardGameViewController.m"
+         timestampString = "382661133.176428"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "60"
+         endingLineNumber = "60"
+         landmarkName = "-getLastFlipDesc"
+         landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
    <ExceptionBreakpoints>

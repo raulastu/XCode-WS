@@ -23,4 +23,7 @@
 
 @property (readonly, nonatomic) int score;
 
+@property (readonly, nonatomic) NSString *lastFlipDescription;
+
+
 @end

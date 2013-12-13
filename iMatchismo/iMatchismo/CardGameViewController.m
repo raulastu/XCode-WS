@@ -16,8 +16,9 @@
 @property (nonatomic) int flipCount;
 @property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *cardButtons;
 @property (weak, nonatomic) IBOutlet UILabel *scoreLabel;
+@property (weak, nonatomic) IBOutlet UILabel *lastFlipDescLabel;
 @property (nonatomic) int score;
-
+@property (nonatomic) NSString *lastFlipDesc;
 
 @property (strong, nonatomic) CardMatchingGame *game;
 
@@ -46,8 +47,20 @@
         cardButton.alpha = (card.isUnplayable)?.3:1;
     }
     self.score=[self.game score];
+//    NSLog([NSString stringWithFormat:@" %@", [self.game lastFlipDescription]]);
+//    NSL
+    self.lastFlipDesc=[self.game lastFlipDescription];
+}
+-(void) setLastFlipDesc:(NSString *)lastFlipDesc {
+    _lastFlipDesc=lastFlipDesc;
+    self.lastFlipDescLabel.text=[NSString stringWithFormat:@"%@",self.lastFlipDesc];
 }
 
+-(NSString *) getLastFlipDesc{
+    if(!_lastFlipDesc)
+        _lastFlipDesc=@"";
+    return _lastFlipDesc;
+}
 - (void) setScore:(int) score{
     _score=score;
     self.scoreLabel.text=[NSString stringWithFormat:@"Score: %d", self.score];
@@ -59,9 +72,15 @@
 }
 
 - (IBAction)flipCard:(UIButton *)sender {
-    NSLog(@"Y");
+//    NSLog(@"Y");
     [self.game flipCardAtIndex:[self.cardButtons indexOfObject:sender]];
     self.flipCount++;
+    [self updateUI];
+}
+
+- (IBAction)deal:(id)sender {
+    _game = nil;
+//    [self init];
     [self updateUI];
 }
 
